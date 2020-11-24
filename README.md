@@ -1,6 +1,6 @@
 # Object-Oriented-Programming-for-Software-students
-## Jason Snow
-### Southwest Technical College 
+## [Jason Snow](https://github.com/jasonvsnow)
+### [Southwest Technical College](https://stech.edu/)
 
 This is a repository for the next class.
 
